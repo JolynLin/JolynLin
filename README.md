@@ -1,4 +1,5 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Jolyn Lin Xin En</h1>
+<h3 align="center">"Learning a new language is a goal I'm enthusiastic about pursuing."</h3>
 
 [![Typing Animation](https://readme-typing-svg.herokuapp.com?lines=Hi+there!+I'm+Jolyn+Lin.;A+passionate+Software+Engineering+student.;I+love+building+real-world+solutions.;Let’s+connect+and+create+something+amazing!
 )](https://git.io/typing-svg)
@@ -9,26 +10,28 @@
 
 ---
 
-### About: 
+
+### About:
 
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="images/computer.png">
-    <source media="(prefers-color-scheme: light)" srcset="images/computer.png">
-    <img alt="Image using computer" width="46%" align="right">
+  <source media="(prefers-color-scheme: dark)" srcset="images/computer.png">
+  <source media="(prefers-color-scheme: light)" srcset="images/computer.png">
+  <img alt="Image using computer" width="20%" align="right">
 </picture>
 
 <ul>
-    <li>🎓 I’m a Year 3 Software Engineering student at <strong>University of Technology Malaysia (UTM)</strong>.</li>
-    <li>💡 I love working on <strong>full-stack projects</strong> using <strong>Java, Spring Boot, Vue.js, and Flutter</strong>.</li>
-    <li>🛠️ Built projects like a <strong>Google Drive Resource Manager</strong> and an <strong>Educational Resource Hub</strong>.</li>
-    <li>🌱 Currently learning more about <strong>backend architecture</strong> and <strong>cloud deployment tools</strong> like Docker.</li>
-    <li>📢 Actively involved in student leadership through <strong>SCMC Christian Fellowship</strong>.</li>
-    <li>💬 Ask me about <strong>Spring Boot, UI/UX, REST APIs, or managing backend logic!</strong></li>
-    <li>📫 Reach me at: <a href="mailto:linxinen03@gmail.com"><strong>linxinen03@gmail.com</strong></a></li>
-    <li>😄 Fun fact: <strong>I learned to containerize my project in Docker before learning how to cook instant noodles properly.</strong></li>
+  <li>🎓 Y3 Software Engineering student at <strong>UTM</strong>, building practical and impactful tech solutions.</li>
+  <li>💻 Skilled in <strong>Java, C++, Spring Boot, Flutter, and Firebase for full-stack development</strong>.</li>
+  <li>🛠️ Built systems like a <strong>Google Drive Resource Manager</strong> and an <strong>Educational Resource Hub</strong>.</li>
+  <li>🤖 Currently exploring <strong>AI chatbot development</strong> — feel free to ask me about it!</li>
+  <li>🌱 Exploring <strong>backend architecture, Docker deployment</strong>, and practical <strong>machine learning</strong>.</li>
+  <li>💬 Let’s talk code — backend APIs, Firebase, Spring Boot, or Flutter apps!</li>
+  <li>📫 Reach me at: <a href="mailto:linxinen03@gmail.com"><strong>linxinen03@gmail.com</strong></a></li>
+  <li>😄 Fun fact: <strong>My best code often comes to life at 2AM — fueled by curiosity and snacks.</strong></li>
 </ul>
 
 ---
+
 
 ### Connect with me:
 <p>
@@ -48,12 +51,22 @@
 </a>
 </p>
 
+
+---
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JolynLin&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JolynLin&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
 ---
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JolynLin/JolynLin/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JolynLin/JolynLin/output/github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" align="center" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/JolynLin/JolynLin/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/JolynLin/JolynLin/output/github-snake.svg" />
+  <img alt="github-snake" src="https://github.com/JolynLin/JolynLin/output/github-snake.svg" />
 </picture>
 
 ---
@@ -62,4 +75,45 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+<p align="left">
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  </a>
+  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="springboot" width="40" height="40"/>
+  </a>
+  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
+  </a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  </a>
+  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40"/>
+  </a>
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
+  </a>
+  <a href="https://www.php.net/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
+  </a>
+  <a href="https://github.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
+  </a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+  </a>
+</p>
+
